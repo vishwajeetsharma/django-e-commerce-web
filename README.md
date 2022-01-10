@@ -1,6 +1,6 @@
 # This Is Our E-Commerce website
 # our Team Members Is
 # NITIN SINGH
-# VISHWAJEET
+# VISHWAJEET SHARMA
 # PRASHANT
 # VISHAL
